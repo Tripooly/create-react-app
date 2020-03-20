@@ -29,7 +29,7 @@
     "lerna": "2.9.1",
     "lerna-changelog": "^0.8.0",
     "lint-staged": "^7.0.5",
-    "meow": "^5.0.0",
+    "meow": "^6.1.0",
     "multimatch": "^2.1.0",
     "prettier": "1.14.3",
     "strip-ansi": "^4.0.0",
